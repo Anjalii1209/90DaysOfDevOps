@@ -1,0 +1,3 @@
+what is Devops?
+
+DevOps is a software development approach emphasizing collaboration, automation, and continuous delivery to provide high-quality products to customers quickly and efficiently. 
